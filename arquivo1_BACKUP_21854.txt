@@ -1,6 +1,0 @@
-primeiro arquivo criado no git.
-<<<<<<< HEAD
-alterado no master
-=======
-alterado
->>>>>>> develop

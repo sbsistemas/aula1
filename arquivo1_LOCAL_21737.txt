@@ -1,2 +1,0 @@
-primeiro arquivo criado no git.
-alterado no master
