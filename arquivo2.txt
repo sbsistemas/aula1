@@ -1,1 +1,2 @@
 Segundo arquivo do commit.
+alterado na branch master
